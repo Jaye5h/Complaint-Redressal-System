@@ -14,9 +14,9 @@ Manager
 Engineer
      2. Enables the customers to login to the portal to raise and track complaints related to the services availed by them
 
-     3. Enables the manager to login, view the complaints raised by the customers and assign the ticket to the engineers based on the PIN Code
+    3. Enables the manager to login, view the complaints raised by the customers and assign the ticket to the engineers based on the PIN Code
 
-     4. Enables the engineers to pick up the tickets, work on them, enter the status of the task. They can also re-assign it to the Field Workers if they cannot resolve it from the data center.
+    4. Enables the engineers to pick up the tickets, work on them, enter the status of the task. They can also re-assign it to the Field Workers if they cannot resolve it from the data center.
 
 
 UI Screens
