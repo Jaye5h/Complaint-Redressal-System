@@ -12,7 +12,8 @@ Enables the Administrator to create and manages the lifecycle of different types
 Customer
 Manager
 Engineer
-     2. Enables the customers to login to the portal to raise and track complaints related to the services availed by them
+     
+    2. Enables the customers to login to the portal to raise and track complaints related to the services availed by them
 
     3. Enables the manager to login, view the complaints raised by the customers and assign the ticket to the engineers based on the PIN Code
 
